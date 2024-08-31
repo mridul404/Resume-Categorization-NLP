@@ -160,5 +160,3 @@ Precision measures the accuracy of positive predictions for each class.
 ![Recall by Class](images/recall_by_class.png)
 
 Recall measures the model's ability to find all positive instances of each class.
-
-These metrics provide a comprehensive view of our model's performance across different resume categories.
