@@ -12,8 +12,7 @@ This project provides a tool for automatically categorizing resumes using a pre-
   - [Chosen Model](#chosen-model-roberta)
   - [Preprocessing and Feature Extraction](#preprocessing-and-feature-extraction)
 - [Performance Metrics](#performance-metrics)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
