@@ -135,7 +135,7 @@ This preprocessing and feature extraction pipeline, combined with the power of t
 
 ## Performance Metrics
 
-Model's performance is evaluated using various metrics:
+Model's performance is evaluated using the following metrics:
 
 ### Confusion Matrix
 
