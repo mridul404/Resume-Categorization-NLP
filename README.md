@@ -1,6 +1,6 @@
 # Resume Categorization Project
 
-This project provides a tool for automatically categorizing resumes using a pre-trained RoBERTa model. It processes PDF resumes, categorizes them, and organizes them into folders based on their predicted categories.
+This project provides a tool for automatically categorizing resumes using a fine-tuned RoBERTa model. It processes PDF resumes, categorizes them, and organizes them into folders based on their predicted categories.
 
 ## Table of Contents
 - [Features](#features)
